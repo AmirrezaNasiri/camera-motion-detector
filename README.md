@@ -1,5 +1,8 @@
 # Camera Motion Detector
 
+> **Warning**
+> This repository is archived for read-only purpose and is not maintained anymore.
+
 ## Overview
 The Camera Motion Detector, an Android application, is designed to connect to a video source like the ESP32 M5CAM, and uses OpenCV to detect motion. Upon detecting movement, it alerts users through sound notifications.
 
